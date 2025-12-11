@@ -92,7 +92,6 @@
 
 - 💌 Email: khushalsai594@gmail.com
 - 🔗 GitHub: [@khushalsai28](https://github.com/khushalsai28)
-- 📚 Education: Glendale Community College (CHM130)
 
 ---
 
