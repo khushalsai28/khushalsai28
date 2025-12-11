@@ -1,59 +1,39 @@
-<!-- Japanese & Telugu Inspired GitHub Profile -->
-# 🎌 こんにちは | నమస్కారం | Hello 👋
+<!-- Professional & Beautiful GitHub Profile -->
+# 👋 Hello, I'm Khushal Sai
 
 <div align="center">
 
-**✨ Khushal Sai - Web Developer & Coder ✨**
+**✨ Web Developer & Software Engineer ✨**
 
-*Blending Eastern Wisdom with Western Technology*
+*Passionate about building amazing software solutions*
 
 </div>
 
 ---
 
-## 🎯 About Me | నా గురించి | 私について
+## 🎯 About Me
 
 ```
 🔹 I'm a passionate developer with interests in:
-   • Java Programming & Debugging
-   • Video Content Creation & Editing
-   • Blockchain Technology
-   • Artificial Intelligence & Automation
+ • Java Programming & Debugging
+ • Video Content Creation & Editing
+ • Blockchain Technology
+ • Artificial Intelligence & Automation
+ • Full-Stack Web Development
 ```
 
 ---
 
-## 🌸 Japanese Influences | 日本の影響
+## 💼 Currently Working On
 
-- **木 (Ki - Wood)**: Growth and continuous learning
-- **火 (Hi - Fire)**: Passion and energy in coding
-- **水 (Mizu - Water)**: Flexibility and adaptation
-- **土 (Tsuchi - Earth)**: Solid foundation and stability  
-- **金 (Kin - Metal)**: Precision and quality
-
-> *"一寸先は闇" (Issun saki wa yami) - "An inch ahead is darkness"*
-> *Always exploring the unknown with curiosity*
-
----
-
-## 🎭 Telugu Influences | తెలుగు ప్రభావాలు
-
-- **గీతం (Geetham - Song)**: Harmony in code
-- **జ్ఞానం (Gnanam - Knowledge)**: Continuous learning journey
-- **శక్తి (Shakti - Power)**: Strength in problem-solving
-- **శాంతి (Shanti - Peace)**: Calm focus during debugging
-
-> *"సాధన" (Sadhana) - Dedicated practice leads to excellence*
-
----
-
-## 💼 Currently Working On 🔭
-- 💻 Java programming projects
-- 🎥 Video editing and content creation
+- 📚 Java programming projects
+- 🎬 Video editing and content creation
 - ⛓️ Blockchain exploration
 - 🤖 AI automation tools
 
-## 🌱 Currently Learning 📚
+---
+
+## 🌱 Currently Learning
 
 - Advanced Java concepts
 - Video production workflows
@@ -61,7 +41,9 @@
 - AI & Machine Learning fundamentals
 - GitHub profile optimization
 
-## 👯 Looking to Collaborate On
+---
+
+## 🤝 Looking to Collaborate On
 
 - Open-source educational projects
 - Chemistry visualization tools
@@ -71,101 +53,53 @@
 
 ---
 
-## 🛠️ Tech Stack | প্রযুক্তি স্ট্যাক
+## 🛠️ Tech Stack
 
-**Languages:**
-```
-🔷 Java
-🔷 Python
-🔷 JavaScript/TypeScript
-🔷 Markdown
-```
+### **Languages:**
 
-**Tools & Platforms:**
-```
-⚙️ Git & GitHub
-⚙️ VS Code
-⚙️ Canvas LMS
-⚙️ Perplexity AI
-⚙️ Video Editing Software
-```
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+</div>
+
+### **Tools & Platforms:**
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Canvas LMS](https://img.shields.io/badge/Canvas%20LMS-%23E50000.svg?style=for-the-badge&logo=canvaslms&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khushalsai28&theme=github_dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khushalsai28&theme=dark&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushalsai28&theme=github_dark&layout=compact)
-
----
-
-## 🎓 Featured Repositories
-
-| Repository | Description | Language |
-|---|---|---|
-| rock_paper_scissors.py | Classic game implementation | Python |
-| emoji-soundtrack-maker | Music-emoji synchronization tool | TypeScript |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushalsai28&layout=compact&theme=dark)
 
 ---
 
-## 🌍 Connect With Me | అనుసంధానం
+## 📬 Get In Touch
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-khushalsai28-black?style=for-the-badge&logo=github)](https://github.com/khushalsai28)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-
-</div>
-
----
-
-## 🎨 Design Philosophy | డిజైన్ ఫిలోసఫీ
-
-### East Meets West
-
-```
-東洋 (Eastern) Principles:     西洋 (Western) Innovation:
-• Mindfulness → Focus          • Logic → Problem Solving
-• Balance → Harmony            • Speed → Efficiency  
-• Nature → Sustainability      • Data → Decision Making
-• Wisdom → Patience            • Tech → Advancement
-```
-
----
-
-## 🎯 Goals | లక్ష్యాలు | 目標
-
-- ✅ Master Java programming
-- ✅ Contribute to open-source projects
-- ✅ Create educational content
-- ✅ Build innovative applications
-- ✅ Achieve work-life balance (like the ancient Eastern philosophy)
-
----
-
-## 🌟 Fun Facts |趣味深い事実
-
-```
-🎌 Inspired by Japanese minimalism and efficiency
-🎭 Appreciate Telugu culture's emphasis on knowledge  
-🎵 Believe in harmony between code and creativity
-```
+- 💌 Email: khushalsai594@gmail.com
+- 🔗 GitHub: [@khushalsai28](https://github.com/khushalsai28)
+- 📚 Education: Glendale Community College (CHM130)
 
 ---
 
 <div align="center">
 
-### 「歩みを止めるな」
-### "Never stop moving forward"
-### "ఎక్కడికీ పోకుండా ఆపిపోకు"
+**Thank you for visiting my profile!** ⭐
 
-*Thank you for visiting my profile! Feel free to explore and connect.* 🙏
-
-**Made with ❤️ from a humble coder** ✨
+*Feel free to reach out for collaborations or just a friendly hello!*
 
 </div>
-
----
-
-*Last Updated: December 2025 | Profile inspired by Eastern & Western values* 🌏
