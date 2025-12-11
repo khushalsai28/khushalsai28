@@ -151,8 +151,6 @@
 ```
 🎌 Inspired by Japanese minimalism and efficiency
 🎭 Appreciate Telugu culture's emphasis on knowledge  
-📚 Lifelong learner following the concept of "Ikigai"
-🌙 Night owl coder with a touch of Eastern wisdom
 🎵 Believe in harmony between code and creativity
 ```
 
