@@ -48,8 +48,6 @@
 ---
 
 ## 💼 Currently Working On 🔭
-
-- 🧪 Chemistry coursework (CHM130)
 - 💻 Java programming projects
 - 🎥 Video editing and content creation
 - ⛓️ Blockchain exploration
