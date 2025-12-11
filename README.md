@@ -15,7 +15,6 @@
 
 ```
 🔹 I'm a passionate developer with interests in:
-   • Chemistry Education (CHM130 at Glendale Community College)
    • Java Programming & Debugging
    • Video Content Creation & Editing
    • Blockchain Technology
