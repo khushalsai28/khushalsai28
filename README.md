@@ -36,19 +36,13 @@
 ## 🌱 Currently Learning
 
 - Advanced Java concepts
-- Video production workflows
-- Chemical analysis techniques
 - AI & Machine Learning fundamentals
-- GitHub profile optimization
-
 ---
 
 ## 🤝 Looking to Collaborate On
 
 - Open-source educational projects
-- Chemistry visualization tools
 - Java-based applications
-- Content creation automation
 - Blockchain projects
 
 ---
