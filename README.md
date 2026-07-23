@@ -26,7 +26,7 @@
 
 ## 💼 Currently Working On
 
-- 📚 Java programming projects
+- 📚 Python programming projects
 - 🎬 Video editing and content creation
 - ⛓️ Blockchain exploration
 - 🤖 AI automation tools
@@ -35,14 +35,14 @@
 
 ## 🌱 Currently Learning
 
-- Advanced Java concepts
+- Advanced Python concepts
 - AI & Machine Learning fundamentals
 ---
 
 ## 🤝 Looking to Collaborate On
 
 - Open-source educational projects
-- Java-based applications
+- Python-based applications
 - Blockchain projects
 
 ---
